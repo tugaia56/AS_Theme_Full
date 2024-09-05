@@ -1,0 +1,12 @@
+<resources>
+    <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
+    <string-array name="ThemeChangelog">
+        <item>Versione 4.7.1</item>
+        <item>AGGIUNTO:</item>
+        <item>- - -</item>
+        <item>AGGIORNATO:</item>
+        <item>OOS 14 Calcolatrice</item>
+        <item>Android System Bug Fix</item>
+    </string-array>
+    <bool name="ThemeHideDefaultType3Option">true</bool>
+</resources>

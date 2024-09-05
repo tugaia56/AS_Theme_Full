@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dip" android:width="36.0dip" android:viewportWidth="36.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@*android:color/accent_material_dark" android:pathData="M1
+            4.0038C1
+            2.3469 2.3431
+            1.0038 4
+            1.0038H32C33.6569
+            1.0038 35
+            2.3469 35
+            4.0038V10.2555V32.0001C35
+            33.657 33.6569
+            35.0001 32
+            35.0001H4C2.3431
+            35.0001 1
+            33.657 1
+            32.0001V4.0038Z" />
+    <path android:fillColor="#00000000" android:pathData="M28.3989
+            2.1391l0
+            -0.7568l0.7568
+            -0l0
+            0.7568z" android:strokeColor="#ffffffff" android:strokeWidth="0.756779" />
+    <path android:fillColor="#00000000" android:pathData="M29.9124
+            3.7022l0
+            -0.7568l0.7568
+            -0l0
+            0.7568z" android:strokeColor="#ffffffff" android:strokeWidth="0.756779" />
+    <path android:fillColor="#00000000" android:pathData="M28.3989
+            5.2157l0
+            -0.7568l0.7568
+            -0l0
+            0.7568z" android:strokeColor="#ffffffff" android:strokeWidth="0.756779" />
+    <path android:fillColor="#00000000" android:pathData="M28.3989
+            8.2923l0
+            -0.7568l0.7568
+            -0l0
+            0.7568z" android:strokeColor="#ffffffff" android:strokeWidth="0.756779" />
+    <path android:fillColor="#00000000" android:pathData="M29.9124
+            6.7293l0
+            -0.7568l0.7568
+            -0l0
+            0.7568z" android:strokeColor="#ffffffff" android:strokeWidth="0.756779" />
+    <path android:fillColor="#00000000" android:pathData="M29.9124
+            9.7564l0
+            -0.7568l0.7568
+            -0l0
+            0.7568z" android:strokeColor="#ffffffff" android:strokeWidth="0.756779" />
+    <path android:fillColor="#00000000" android:pathData="M28.5205
+            13.9647l0
+            -3.33l2.0272
+            -0l0
+            3.33z" android:strokeColor="#ffffffff" android:strokeWidth="1.0" />
+    <path android:fillColor="#fffafafa" android:pathData="M10.8015
+            25.5839C10.0215
+            25.5839 9.4248
+            25.3772 9.0115
+            24.9639C8.6048
+            24.5506 8.4015
+            23.9506 8.4015
+            23.1639V22.7839H9.7015V23.1339C9.7015
+            23.6072 9.7848
+            23.9439 9.9515
+            24.1439C10.1248
+            24.3372 10.3915
+            24.4339 10.7515
+            24.4339C11.4048
+            24.4339 11.7315
+            24.0706 11.7315
+            23.3439V18.0039H13.1215V23.3939C13.1215
+            24.0006 12.9548
+            24.4939 12.6215
+            24.8739C12.2015
+            25.3472 11.5948
+            25.5839 10.8015
+            25.5839Z" />
+    <path android:fillColor="#fffafafa" android:pathData="M16.4009
+            18.0039H17.8709L20.5909
+            25.4439H19.1109L18.5109
+            23.6739H15.7009L15.1009
+            25.4439H13.7009L16.4009
+            18.0039ZM17.6109
+            20.9339C17.4242
+            20.3739 17.2676
+            19.7772 17.1409
+            19.1439H17.1109C16.9442
+            19.8906 16.7842
+            20.4872 16.6309
+            20.9339L16.0509
+            22.6439H18.1809L17.6109
+            20.9339Z" />
+    <path android:fillColor="#fffafafa" android:pathData="M26.0386
+            25.4439L24.4386
+            22.5739H22.8386V25.4439H21.4386V18.0039H24.8486C25.342
+            18.0039 25.7753
+            18.1039 26.1486
+            18.3039C26.522
+            18.4972 26.8086
+            18.7672 27.0086
+            19.1139C27.2153
+            19.4606 27.3186
+            19.8572 27.3186
+            20.3039C27.3186
+            20.8306 27.1786
+            21.2739 26.8986
+            21.6339C26.6253
+            21.9939 26.2653
+            22.2506 25.8186
+            22.4039L27.5986
+            25.4439H26.0386ZM22.8386
+            21.4639H24.6386C25.0653
+            21.4639 25.3886
+            21.3672 25.6086
+            21.1739C25.8286
+            20.9806 25.9386
+            20.6972 25.9386
+            20.3239C25.9386
+            19.9506 25.8286
+            19.6706 25.6086
+            19.4839C25.3953
+            19.2906 25.082
+            19.1939 24.6686
+            19.1939H22.8386V21.4639Z" />
+</vector>
