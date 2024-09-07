@@ -338,6 +338,15 @@ The AQI ranges from 0 to 500. The higher the AQI value, the greater the level of
     <string name="global_alerts_description_text">Rain, Snow, Ice, Highwind, Fog, Extream heat, Extreame cold, Thunderstorm</string>
     <string name="global_alerts_label_text">Global 8</string>
     <string name="go_ad_free_text">Ad Free</string>
+    <string name="google_analytics_container_id">GTM-P3QCP5</string>
+    <string name="google_analytics_tracking_id">UA-47645401-1</string>
+    <string name="google_api_key">AIzaSyAGn78m_L-unrdMWwUoJP4eIbvm6CJ6KKA</string>
+    <string name="google_app_id">1:829190975910:android:727387a29e36f402</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAGn78m_L-unrdMWwUoJP4eIbvm6CJ6KKA</string>
+    <string name="google_gson">&amp;#8226; Google Gson - Copyright 2008 Google Inc.</string>
+    <string name="google_map_v2_api_key">AIzaSyA5oC2d4YfVTGspF6JZhp_UZEtOzS_AlX8</string>
+    <string name="google_play_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn1vQagHfQRBkfRR9d1g6fCb7RR/yZ9NlhJiqNgFycQOmdPq6anTdFJJr/zIYABX1bE7MSytdnoJMt7dLAZ2CB34OoZXHFC9FknAu3iY+rHUSaOf9q06SAKfa12PIPVp/MFMMG0UXz86uFPAoPRxnDdRFSgbENXmbZBUM2hD7Y1Rf7KcqgHLRfXYSyw123QCcH8pT8fNTfDRfbc3PCxPihvIuAntlSr/bHhn2MruRPa1ozLgt2aEFsJQZ8sROd2r9tZMBbXw8KJCueMvbvUFEgoL5z7ob8/54pukBDrBzRZFWjS4LdCXcdie06Nh6Iq4pUqqz74fqdU67GjaCRrL7/QIDAQAB</string>
+    <string name="google_storage_bucket">wu-flagship-app.appspot.com</string>
     <string name="gps_notification_description">"Real-time alerts for rain,
 lightning and severe weather,
 wherever you go"</string>

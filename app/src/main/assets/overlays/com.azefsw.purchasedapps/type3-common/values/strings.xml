@@ -146,6 +146,10 @@
     <string name="feedback_email_body" />
     <string name="feedback_email_subject">Purchased Apps Feedback</string>
     <string name="firebase_database_url">https://purchased-apps-azefsw.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">152292696950</string>
+    <string name="google_api_key">AIzaSyBfMBdpP9C3qTH0JGxFD_ySfqVBHjT6eC0</string>
+    <string name="google_app_id">1:152292696950:android:2ff1eaf1468a8404</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBfMBdpP9C3qTH0JGxFD_ySfqVBHjT6eC0</string>
     <string name="google_storage_bucket">purchased-apps-azefsw.appspot.com</string>
     <string name="help_feedback">Help &amp; Feedback</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>

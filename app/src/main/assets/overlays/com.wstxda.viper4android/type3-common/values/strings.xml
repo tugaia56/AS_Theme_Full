@@ -143,6 +143,14 @@ Sampling rate: %5$d"</string>
     <string name="error_icon_content_description">Error</string>
     <string name="expand_button_title">Advanced</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="gcm_defaultSenderId">869578750918</string>
+    <string name="google_api_key">AIzaSyDArZmEDQ0EX_eXTiE-1mdpOZWcC9UTy_I</string>
+    <string name="google_app_id">1:869578750918:android:127684a8a8317f3bf750c7</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDArZmEDQ0EX_eXTiE-1mdpOZWcC9UTy_I</string>
+    <string name="google_storage_bucket">viper4android-df2e0.appspot.com</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="ic_media_route_learn_more_accessibility">Learn how to cast</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="import_preset">Import preset</string>

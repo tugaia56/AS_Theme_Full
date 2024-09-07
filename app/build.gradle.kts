@@ -32,15 +32,11 @@ android {
     compileSdk=34
 
     defaultConfig {
-        // If you're planning to change up the package name, ensure you have read the readme
-        // thoroughly!
         applicationId="tugaia56.dark.shadow.full"
-        // We are only supporting Nougat and above, all new changes will incorporate Nougat changes
-        // to the substratum repo rather than anything lower. Keep targetSdkVersion the same.
         minSdk=28
-        // Both versions must be changed to increment on Play Store/user's devices
-        versionCode = 480
-        versionName = "4.8.0"
+        versionCode = 500
+        versionName = "5.0.0"
+        setProperty("archivesBaseName", "Dark_Shadow_Theme_Full_v5.0.0")
 
         // Themers: DO NOT MODIFY
         buildConfigField("boolean", "SUPPORTS_THIRD_PARTY_SYSTEMS", "$SUPPORTS_THIRD_PARTY_SYSTEMS")

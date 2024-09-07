@@ -213,6 +213,10 @@ You can skip this step and \"Wi-Fi\" will be used as the name."</string>
     <string name="gdpr_type_crash">crash reporting</string>
     <string name="gdpr_type_notifications">sending notifications</string>
     <string name="gdpr_withdraw_consent">Withdraw data protection consent</string>
+    <string name="google_api_key">AIzaSyBY5aS9kvY_kghHL-4RmBj4DKkhlb3y9fA</string>
+    <string name="google_app_id">1:107020683429:android:3899450d1fdae9682de54c</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBY5aS9kvY_kghHL-4RmBj4DKkhlb3y9fA</string>
+    <string name="google_storage_bucket">treydev-shades.appspot.com</string>
     <string name="header_date">Date (on left)</string>
     <string name="header_icons">System icons (on right)</string>
     <string name="helper_setup">Helper Setup</string>

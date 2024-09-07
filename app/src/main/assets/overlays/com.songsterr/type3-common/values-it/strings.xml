@@ -95,6 +95,11 @@ You could try to turn off your VPN, if any."</string>
     <string name="expand_button_title">Advanced</string>
     <string name="firebase_database_url">https://songsterr-1267.firebaseio.com</string>
     <string name="forgot_password"><u>Forgot your password?</u></string>
+    <string name="gcm_defaultSenderId">720901115165</string>
+    <string name="google_api_key">AIzaSyDmGBuvobZwr9f3d2s4IiiltuKGplnw76g</string>
+    <string name="google_app_id">1:720901115165:android:3fc740963204f0ab</string>
+    <string name="google_auth_client_id">720901115165-na55ltpj1o6sk1ubdgd5m1n2vq40k7ce.apps.googleusercontent.com</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDmGBuvobZwr9f3d2s4IiiltuKGplnw76g</string>
     <string name="google_signin_error_message_format">Google Sign In Error: %s</string>
     <string name="google_signout_error_message_format">Google Sign Out Error: %s</string>
     <string name="google_storage_bucket">songsterr-1267.appspot.com</string>
