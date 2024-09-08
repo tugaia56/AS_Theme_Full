@@ -5,7 +5,7 @@
     <color name="m3_sys_color_dynamic_dark_inverse_primary">@*android:color/button_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_inverse_surface">@*android:color/accent_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_on_background">#ffffffff</color>											<!-- testo search -->
-    <color name="m3_sys_color_dynamic_dark_on_primary">@*android:color/accent_material_dark</color>					<!-- pallino switch -->
+    <color name="m3_sys_color_dynamic_dark_on_primary">@*android:color/white</color>					<!-- pallino switch -->
     <color name="m3_sys_color_dynamic_dark_on_primary_container">@*android:color/accent_material_dark</color>		<!-- testo scelta orologio -->
     <color name="m3_sys_color_dynamic_dark_on_secondary">#ff9e80</color>
     <color name="m3_sys_color_dynamic_dark_on_secondary_container">#ffffffff</color>
@@ -15,8 +15,8 @@
     <color name="m3_sys_color_dynamic_dark_on_tertiary_container">#ffd180</color>
     <color name="m3_sys_color_dynamic_dark_outline">@*android:color/accent_material_dark</color>					<!-- switch -->
     <color name="m3_sys_color_dynamic_dark_outline_variant">@*android:color/accent_material_dark</color>			<!-- bordo dialog -->
-    <color name="m3_sys_color_dynamic_dark_primary">@*android:color/background_leanback_dark</color>									<!-- icone e switch-->
-    <color name="m3_sys_color_dynamic_dark_primary_container">#ffe57f</color>
+    <color name="m3_sys_color_dynamic_dark_primary">@*android:color/ripple_material_dark</color>							<!-- icone e switch-->
+    <color name="m3_sys_color_dynamic_dark_primary_container">#ffffffff</color>
     <color name="m3_sys_color_dynamic_dark_secondary">@*android:color/accent_material_dark</color>					<!-- check -->
     <color name="m3_sys_color_dynamic_dark_secondary_container">@*android:color/accent_material_dark</color>		<!-- bg navbar attivo -->
     <color name="m3_sys_color_dynamic_dark_surface">@*android:color/background_dark</color>							<!-- header -->
@@ -70,7 +70,7 @@
     <color name="m3_sys_color_dynamic_primary_fixed_dim">#e040fb</color>
     <color name="m3_sys_color_dynamic_secondary_fixed">#ea80fc</color>
     <color name="m3_sys_color_dynamic_secondary_fixed_dim">#4a148c</color>
-    <color name="m3_sys_color_dynamic_tertiary_fixed">#00ff00</color>
+    <color name="m3_sys_color_dynamic_tertiary_fixed">#fff000</color>
     <color name="m3_sys_color_dynamic_tertiary_fixed_dim">#ff00ff</color>
     <color name="m3_sys_color_dynamic_dark_error">@*android:color/ripple_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_error_container">#00ffff</color>

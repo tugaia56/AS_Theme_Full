@@ -44,7 +44,7 @@
     <color name="color__inverse__warning__border__faint">#529b6400</color>
     <color name="color__inverse__warning__text">#ff9b6400</color>
     <color name="color__toolbar">#cd000000</color>
-    <color name="dbx_core_blue">#ff76aaff</color>
+    <color name="dbx_core_blue">@*android:color/accent_material_dark</color>
     <color name="dbx_stone_30">#ff999999</color>
     <color name="standard_text">#ffffffff</color>
 </resources>

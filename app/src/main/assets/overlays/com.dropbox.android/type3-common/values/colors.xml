@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="color__always__light__background">@*android:color/background_dark</color>
+    <color name="color__bottomnavbar__background">@*android:color/background_dark</color>
+    <color name="color__standard__background">@*android:color/background_dark</color>
+    <color name="color__status__bar">@*android:color/background_dark</color>
+    <color name="comment_annotation_outline_outer">@*android:color/background_dark</color>
+    <color name="comment_reply_button_background_color">@*android:color/background_dark</color>
+    <color name="dbx_action_bar_actionmode_color">@*android:color/background_dark</color>
+    <color name="dbx_toolbar_background_color">@*android:color/background_dark</color>
+    <color name="dbx_secondary_button_color_text_disabled">@*android:color/background_dark</color>
+    <color name="dbx_secondary_button_color_text_normal">@*android:color/background_dark</color>
+    <color name="docscanner_document_editor_bottom_toolbar_background">@*android:color/background_dark</color>
+    <color name="grid_view_progress_bar">@*android:color/background_dark</color>
+    <color name="grid_view_progress_bar_ring">@*android:color/background_dark</color>
+	
     <color name="abc_decor_view_status_guard">@*android:color/background_dark</color>
     <color name="abc_decor_view_status_guard_light">#ffffffff</color>
     <color name="abc_search_url_text_normal">#ff7fa87f</color>
@@ -450,7 +464,7 @@
     <color name="raw__crimson__100__light">#fff7561d</color>
     <color name="raw__crimson__5">#fff7ebef</color>
     <color name="raw__dbx__blue__100">#ff0061ff</color>
-    <color name="raw__dbx__blue__20">#ff76aaff</color>
+    <color name="raw__dbx__blue__20">@*android:color/accent_material_dark</color>
     <color name="raw__debug__mint">#ffa2d39b</color>
     <color name="raw__debug__orange">#fffb570d</color>
     <color name="raw__debug__purple">#ff813bf6</color>
@@ -525,7 +539,7 @@
     <color name="vis2020_dig_color_dark_accent_cyan">#ff14c8eb</color>
     <color name="vis2020_dig_color_dark_accent_green">#ffb4dc19</color>
     <color name="vis2020_dig_color_dark_accent_magenta">#ffffafa5</color>
-    <color name="vis2020_dig_color_dark_accent_on_accent">#ff242321</color>
+    <color name="vis2020_dig_color_dark_accent_on_accent">@*android:color/background_dark</color>
     <color name="vis2020_dig_color_dark_accent_orange">#ffff8c19</color>
     <color name="vis2020_dig_color_dark_accent_purple">#ffc8aff0</color>
     <color name="vis2020_dig_color_dark_accent_red">#fffa551e</color>
@@ -539,8 +553,8 @@
     <color name="vis2020_dig_color_dark_alert_surface_state_1">#ff76260c</color>
     <color name="vis2020_dig_color_dark_alert_surface_state_2">#ff892b0d</color>
     <color name="vis2020_dig_color_dark_background_base">@*android:color/background_dark</color>
-    <color name="vis2020_dig_color_dark_background_raised">#ff2d2b29</color>
-    <color name="vis2020_dig_color_dark_background_subtle">#ff242321</color>
+    <color name="vis2020_dig_color_dark_background_raised">@*android:color/background_dark</color>
+    <color name="vis2020_dig_color_dark_background_subtle">@*android:color/background_dark</color>
     <color name="vis2020_dig_color_dark_border_base">#ff5b5650</color>
     <color name="vis2020_dig_color_dark_border_bold">#ff736c64</color>
     <color name="vis2020_dig_color_dark_border_subtle">#24ffffff</color>
@@ -605,7 +619,7 @@
     <color name="vis2020_dig_color_dark_secondary_base_state_2">#ffd3cec9</color>
     <color name="vis2020_dig_color_dark_secondary_on_base">#FFFFFFFF</color>
     <color name="vis2020_dig_color_dark_secondary_on_surface">#ffebe9e6</color>
-    <color name="vis2020_dig_color_dark_secondary_surface">#ff2d2b29</color>
+    <color name="vis2020_dig_color_dark_secondary_surface">@*android:color/background_dark</color>
     <color name="vis2020_dig_color_dark_secondary_surface_state_1">#ff44403d</color>
     <color name="vis2020_dig_color_dark_secondary_surface_state_2">#ff5b5650</color>
     <color name="vis2020_dig_color_dark_selection_base">#ff5f9dff</color>
@@ -696,7 +710,7 @@
     <color name="vis2020_dig_color_secondary_base_state_1">#ff393633</color>
     <color name="vis2020_dig_color_secondary_base_state_2">#ff44403d</color>
     <color name="vis2020_dig_color_secondary_on_base">#fff7f5f2</color>
-    <color name="vis2020_dig_color_secondary_on_surface">#ff242321</color>
+    <color name="vis2020_dig_color_secondary_on_surface">@*android:color/background_dark</color>
     <color name="vis2020_dig_color_secondary_surface">#ffebe9e6</color>
     <color name="vis2020_dig_color_secondary_surface_state_1">#ffdfdcd8</color>
     <color name="vis2020_dig_color_secondary_surface_state_2">#ffd3cec9</color>
