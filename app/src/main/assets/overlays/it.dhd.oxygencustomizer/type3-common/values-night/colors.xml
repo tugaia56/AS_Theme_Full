@@ -2,9 +2,9 @@
 <resources>
     <color name="card_surface_color">@*android:color/background_dark</color>
     <color name="colorBackground">@*android:color/background_dark</color>
-    <color name="colorBackgroundHard">#ff000000</color>
-    <color name="colorBackgroundMedium">#ff171717</color>
-    <color name="colorBackgroundSoft">#ff303030</color>
+    <color name="colorBackgroundHard">@*android:color/background_dark</color>
+    <color name="colorBackgroundMedium">@*android:color/background_dark</color>
+    <color name="colorBackgroundSoft">@*android:color/background_dark</color>
     <color name="colorContainer">@*android:color/background_dark</color>
     <color name="colorDivider">#33ffffff</color>
     <color name="colorPressBackground">#26ffffff</color>
