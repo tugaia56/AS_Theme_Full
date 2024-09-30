@@ -23,7 +23,7 @@
     <color name="m3_sys_color_dynamic_dark_surface_bright">@*android:color/ripple_material_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_container">@*android:color/background_dark</color>			<!-- bg search -->
     <color name="m3_sys_color_dynamic_dark_surface_container_high">@*android:color/button_material_dark</color>	<!-- bg dialog -->
-    <color name="m3_sys_color_dynamic_dark_surface_container_highest">@*android:color/background_dark</color>	<!-- bg switch disattivato -->
+    <color name="m3_sys_color_dynamic_dark_surface_container_highest">@*android:color/transparent</color>		<!-- bg switch disattivato -->
     <color name="m3_sys_color_dynamic_dark_surface_container_low">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_container_lowest">@*android:color/background_dark</color>
     <color name="m3_sys_color_dynamic_dark_surface_dim">@*android:color/accent_material_dark</color>
