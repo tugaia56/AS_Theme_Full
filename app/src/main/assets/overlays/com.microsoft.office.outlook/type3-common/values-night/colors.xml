@@ -118,7 +118,7 @@
     <color name="day_view_nextday_background">@*android:color/black</color>
     <color name="day_view_past_time_background">@*android:color/black</color>
     <color name="day_view_time_picker_regular_time_color">@*android:color/transparent</color>
-    <color name="dock_list_surface">@android:color/black</color>
+    <color name="dock_list_surface">@*android:color/black</color>
     <color name="drop_shadow_text">@*android:color/white</color>
     <color name="drop_zone_dashed_line_enabled">@*android:color/accent_material_dark</color>
     <color name="fc_indicator_active">#ffffffff</color>
