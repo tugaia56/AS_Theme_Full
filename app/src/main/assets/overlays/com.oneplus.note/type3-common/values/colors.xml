@@ -1754,7 +1754,7 @@
     <color name="note_remind_time_fill_color">@*android:color/background_dark</color>
     <color name="note_share_border_color">#1a000000</color>
     <color name="note_sub_title_color">#8c000000</color>
-    <color name="note_text_color">#ff2f2f2f</color>
+    <color name="note_text_color">@*android:color/button_material_dark</color>
     <color name="note_todo_item_solid_un_complete_line">#1a000000</color>
     <color name="note_toolbar_item_disabled_color">#26000000</color>
     <color name="note_toolbar_item_normal_color">@*android:color/background_dark</color>

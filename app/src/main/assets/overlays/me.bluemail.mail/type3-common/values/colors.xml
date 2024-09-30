@@ -23,7 +23,7 @@
     <color name="account_status_dark_text">#ffffffff</color>
     <color name="account_status_event_bg">#fffa4242</color>
     <color name="account_status_event_text">#ffffffff</color>
-    <color name="account_status_status_black">#ff2f2f2f</color>
+    <color name="account_status_status_black">@*android:color/button_material_dark</color>
     <color name="account_status_status_gray">#fff6f6f6</color>
     <color name="action_bar_bg">#fffbfbfb</color>
     <color name="action_bar_color_default">#fff1f1f1</color>

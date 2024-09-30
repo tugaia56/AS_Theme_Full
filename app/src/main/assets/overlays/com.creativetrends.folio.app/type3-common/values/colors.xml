@@ -369,7 +369,7 @@
     <color name="grey_hex_2c">#ff2c2c2c</color>
     <color name="grey_hex_2d">#ff2d2d2d</color>
     <color name="grey_hex_2e">@*android:color/background_dark</color>
-    <color name="grey_hex_2f">#ff2f2f2f</color>
+    <color name="grey_hex_2f">@*android:color/button_material_dark</color>
     <color name="grey_hex_30">@*android:color/background_dark</color>
     <color name="grey_hex_31">#ff313131</color>
     <color name="grey_hex_32">@*android:color/background_dark</color>

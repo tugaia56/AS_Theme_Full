@@ -126,7 +126,7 @@
     <color name="fui_bgFacebook">#ff3b5998</color>
     <color name="fui_bgGitHub">#ff24292e</color>
     <color name="fui_bgGoogle">#ffffffff</color>
-    <color name="fui_bgMicrosoft">#ff2f2f2f</color>
+    <color name="fui_bgMicrosoft">@*android:color/button_material_dark</color>
     <color name="fui_bgPhone">#ff43c5a5</color>
     <color name="fui_bgTwitter">#ff5baaf4</color>
     <color name="fui_bgYahoo">#ff720e9e</color>
